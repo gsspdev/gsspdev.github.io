@@ -1,0 +1,10 @@
+{
+    "C_Cpp.autoAddFileAssociations": false,
+    "csharp.format.enable": false,
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false
+    }
+}
