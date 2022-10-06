@@ -2,6 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "launch"
             "type": "firefox",
             "request": "launch",
             "reAttach": true,
@@ -17,4 +18,3 @@
             "file": "${workspaceFolder}/index.html"
         }
     ]
-}
