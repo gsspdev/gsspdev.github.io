@@ -5,6 +5,12 @@
         "*": true,
         "yaml": false,
         "plaintext": false,
-        "markdown": false
-    }
+        "markdown": false,
+        "json": true,
+        "html": true,
+        "css": true,
+        "javascript": true,
+    },
+    "scm.alwaysShowActions": true,
+    "scm.alwaysShowRepositories": true
 }
