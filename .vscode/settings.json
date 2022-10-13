@@ -5,7 +5,7 @@
         "*": true,
         "yaml": false,
         "plaintext": false,
-        "markdown": false,
+        "markdown": true,
         "json": true,
         "html": true,
         "css": true,
