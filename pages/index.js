@@ -13,7 +13,10 @@ export default function Home() {
       <main>
         <h1 className={styles.title}>
           GS<a href="https://twitter.com/GSSPmusic">SP</a>
-          {/* Read <Link href="/posts/first-post">this page!</Link> */}
+        </h1>
+
+        <h1 className={styles.card}>
+          Read <Link href="/posts/first-post">this page!</Link>
         </h1>
 
         <div className={styles.grid}>
@@ -34,8 +37,8 @@ export default function Home() {
           </div>
 
           <div className={styles.card}>
-            <h3 className={styles.title}><Link href="/MUSIC/music-page">DESIGN</Link></h3>
-            <p>Projects I've worked on as a designer</p>
+            <h3 className={styles.title}><Link href="/MUSIC/music-page">MUSIC</Link></h3>
+            <p>Examples of my musical works</p>
           </div>
           
         </div>
