@@ -92,3 +92,5 @@
     flex-direction: column;
   }
 }
+
+@import "mafs/core.css";
