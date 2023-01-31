@@ -21,15 +21,10 @@ export default function Home() {
 
         <div className={styles.grid}>
 
-          {/* <div className={styles.card}>
+          <div className={styles.card}>
             <h3 className={styles.title}><Link href="/CODE/code-page">CODE</Link></h3>
             <p>View examples of code projects that I have worked on</p>
-          </div> */}
-
-          <div className={styles.card}>
-            <h3 className={styles.title}><a href="https://www.github.com/gsspdev/">link text</a></h3>
-            <p>View examples of code projects that I have worked on</p>
-          </div
+          </div>
 
           <div className={styles.card}>
             <h3 className={styles.title}><Link href="/FILM/film-page">FILM</Link></h3>
